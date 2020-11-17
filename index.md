@@ -9,7 +9,7 @@ I'm a 13 year old programmer, currently I only know python but wanting to learn 
 # Swiss7
 Check out the project [here](https://github.com/lasscat/Swiss7)
 
-#NamemcPy
+# NamemcPy
 
 Namemc api wrapper written in python
 Check out the project [here](https://github.com/lasscat/namemcpy)
