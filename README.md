@@ -3,5 +3,4 @@
 
 13 year old nerd who wants to become a programmer when I become older.
 
-
-![Lasscats's github stats](https://github-readme-stats.vercel.app/api?username=lasscat&show_icons=true&theme=default)
+![GitHub metrics](https://metrics.lecoq.io/lasscat)
