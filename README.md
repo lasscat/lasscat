@@ -3,6 +3,4 @@
 
 13 year old nerd who wants to become a programmer when I become older.
 
-BLUCOBALT ADD ME BACK TO THE GROUPCHAT!
-
 ![GitHub metrics](https://metrics.lecoq.io/lasscat)
