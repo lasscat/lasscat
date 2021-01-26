@@ -3,4 +3,6 @@
 
 13 year old nerd who wants to become a programmer when I become older.
 
+contact me lasscat#7377 or if that does not work it might be glasscart#7377
+
 ![GitHub metrics](https://metrics.lecoq.io/lasscat)
